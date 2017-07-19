@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<img src='http://www.placehold.it/${1:1920}x${2:380}/${3:e947a5}/${4:e947a5}' alt='Descrição'>]]></content>
+	<tabTrigger>placehold</tabTrigger>
+	<scope>text.html</scope>
+	<description>Img tag with a placehold.it image</description>
+</snippet>

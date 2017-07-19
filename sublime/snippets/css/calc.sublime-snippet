@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+calc($1);
+]]></content>
+	<tabTrigger>calc</tabTrigger>
+	<scope>source.sass, source.scss, source.css</scope>
+</snippet>

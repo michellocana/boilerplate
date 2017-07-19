@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rgba(${1:\$color}, ${2:1});
+]]></content>
+	<tabTrigger>rgba</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>Sass rgba method</description>
+</snippet>

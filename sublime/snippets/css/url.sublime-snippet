@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+url(../img/${1:imgName}.png);
+]]></content>
+	<tabTrigger>url</tabTrigger>
+	<scope>source.sass, source.scss, source.css</scope>
+	<description>CSS url function</description>
+</snippet>

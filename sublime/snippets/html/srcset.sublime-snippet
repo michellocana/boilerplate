@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<picture>
+	<source data-srcset='http://www.placehold.it/${3:768}x${4:472}/00635b/ffffff' media='(max-width: ${5:768}px)'>
+	<img data-src='http://www.placehold.it/${1:1200}x${2:737}/00635b/ffffff' alt='Descrição' class='lazyload'>
+</picture>
+]]></content>
+	<tabTrigger>srcset</tabTrigger>
+	<scope>text.html</scope>
+	<description>Lazysizes picture srcset</description>
+</snippet>

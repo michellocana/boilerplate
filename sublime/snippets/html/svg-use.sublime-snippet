@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<use xlink:href='#${1:id}'></use>
+]]></content>
+	<tabTrigger>use</tabTrigger>
+	<scope>text.html, text.xml</scope>
+	<description>SVG use tag with xlink:href attribute</description>
+</snippet>	
