@@ -23,4 +23,5 @@ All scripts/plugins that i use often
 - [Size Marks](https://github.com/romashamin/Size-Marks-PS)
 
 ## Tools
-- [Depcheck](https://www.npmjs.com/package/depcheck) (find unused npm modules)
+- [Depcheck](https://www.npmjs.com/package/depcheck) - Find unused npm modules
+- [eslint-plugin-you-dont-need-lodash-underscore](https://www.npmjs.com/package/eslint-plugin-you-dont-need-lodash-underscore) - Hints whether to use native Javascript over lodash/underscore methods
